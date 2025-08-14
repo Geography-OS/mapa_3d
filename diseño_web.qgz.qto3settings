@@ -1,0 +1,856 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": [
+        {
+          "enabled": true,
+          "keyframes": [
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 536558.5791576233,
+                "y": 2094892.1055201397,
+                "z": 22847.016913649113
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 1",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 541884.8542357456,
+                "y": 2090244.6774931871,
+                "z": 25315.254197948976
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 2",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 513862.19111218886,
+                "y": 2079385.775304488,
+                "z": 27670.771050290732
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 3",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 486399.18453222094,
+                "y": 2102329.0645153983,
+                "z": 32926.32785558926
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 4",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 472484.9437235854,
+                "y": 2100766.5890136557,
+                "z": 32362.864202412882
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 5",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 438858.47658056475,
+                "y": 2081861.8796599687,
+                "z": 24810.953143898543
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 6",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 451679.4768244745,
+                "y": 2096709.6417808954,
+                "z": 18238.330454756622
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 7",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 457182.4458911484,
+                "y": 2079410.641654568,
+                "z": 13458.902723708976
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 8",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 421263.8134588823,
+                "y": 2132791.128227813,
+                "z": 13231.851954528851
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 9",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 445580.67548684473,
+                "y": 2183256.610623016,
+                "z": 15505.701964559388
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 10",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 452361.98633738974,
+                "y": 2170538.8232073337,
+                "z": 6142.744347990265
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 11",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 514705.5842615461,
+                "y": 2175310.9601555527,
+                "z": 7223.228101226272
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 12",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 532688.9036304511,
+                "y": 2148656.9078397835,
+                "z": 7009.705540783446
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 13",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 503879.2500663698,
+                "y": 2092989.280527759,
+                "z": 6033.010843342432
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 14",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 487256.3918960241,
+                "fy": 2137910.605974754,
+                "fz": 0.0,
+                "x": 502662.94954145653,
+                "y": 2094447.4024698986,
+                "z": 24007.36043578687
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 15",
+              "type": 128
+            }
+          ],
+          "name": "Group",
+          "type": 64
+        }
+      ]
+    },
+    "enabled": true,
+    "layers": {
+      "Alcaldias_CDMX_0c88ba5f_7379_4726_b9c6_a559ddc1dc49": {
+        "enabled": true,
+        "groups": []
+      },
+      "CurvasMaestras_100m_19ec8af7_2978_415e_b0ea_5d31e3b21665": {
+        "enabled": true,
+        "groups": []
+      },
+      "CurvasOrdinarias_20m_8156752f_a237_4924_9d2f_c7f4acb0ec89": {
+        "enabled": true,
+        "groups": []
+      },
+      "DEM_CDMX_adbf511d_6e30_44fc_b9f8_cc8533758204": {
+        "enabled": true,
+        "groups": []
+      },
+      "DEM_CDMX_hill_4f463b26_d428_46a0_9970_cdb19e652b63": {
+        "enabled": true,
+        "groups": []
+      },
+      "Elevaciones_CDMX_8d6fe4b4_59e5_439c_8c36_7a5f6ef905be": {
+        "enabled": true,
+        "groups": []
+      },
+      "Estatal_CDMX_64521940_bc55_41d9_a489_2e98ca680f93": {
+        "enabled": true,
+        "groups": []
+      },
+      "Lago1519_CDMX_c4582458_33c9_4d9f_923a_85dde23bf923": {
+        "enabled": true,
+        "groups": []
+      },
+      "RedHidro_CDMX_0eedeb0c_2dc7_48be_9767_fcdc09345160": {
+        "enabled": true,
+        "groups": []
+      },
+      "TiposVegetacion_CDMX_9294a8c7_612d_4723_b1eb_25e18ae8e2a7": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:c86549a4": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false,
+    "startOnLoad": true
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "Lago1519_CDMX_c4582458_33c9_4d9f_923a_85dde23bf923",
+      "name": "Lago1519_CDMX",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"ID\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 1,
+      "layerId": "Elevaciones_CDMX_8d6fe4b4_59e5_439c_8c36_7a5f6ef905be",
+      "name": "Elevaciones_CDMX",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Sphere",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"fid\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "754.0",
+          "type": 1
+        },
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Estatal_CDMX_64521940_bc55_41d9_a489_2e98ca680f93",
+      "name": "Estatal_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "CurvasMaestras_100m_19ec8af7_2978_415e_b0ea_5d31e3b21665",
+      "name": "CurvasMaestras_100m",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_ObjectType": "Line",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "lineEdit_Name": "",
+        "mtlWidget0": {
+          "checkBox": false,
+          "type": 9
+        },
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true
+      },
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "CurvasOrdinarias_20m_8156752f_a237_4924_9d2f_c7f4acb0ec89",
+      "name": "CurvasOrdinarias_20m",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "RedHidro_CDMX_0eedeb0c_2dc7_48be_9767_fcdc09345160",
+      "name": "RedHidro_CDMX",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Visible": true,
+        "comboBox_ObjectType": "Line",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "lineEdit_Name": "",
+        "mtlWidget0": {
+          "checkBox": false,
+          "type": 9
+        },
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Alcaldias_CDMX_0c88ba5f_7379_4726_b9c6_a559ddc1dc49",
+      "name": "Alcaldias_CDMX",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"CVEGEO\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DEM_CDMX_adbf511d_6e30_44fc_b9f8_cc8533758204",
+      "name": "DEM_CDMX",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Lago1519_CDMX_c4582458_33c9_4d9f_923a_85dde23bf923",
+        "horizontalSlider_DEMSize": 6,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "9977d4f9",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "9977d4f9",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 3,
+      "layerId": "TiposVegetacion_CDMX_9294a8c7_612d_4723_b1eb_25e18ae8e2a7",
+      "name": "TiposVegetacion_CDMX",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"OBJECTID_1\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DEM_CDMX_hill_4f463b26_d428_46a0_9970_cdb19e652b63",
+      "name": "DEM_CDMX_hill",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:c86549a4",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "OPT": {
+    "animation.enabled": true,
+    "animation.startOnLoad": true,
+    "localMode": true,
+    "viewpoint": {
+      "lookAt": {
+        "x": 487256.3918960241,
+        "y": 2137910.605974754,
+        "z": 0.0
+      },
+      "pos": {
+        "x": 502662.94954145653,
+        "y": 2094447.4024698986,
+        "z": 24007.36043578687
+      }
+    }
+  },
+  "OutputFilename": "D:/BCKDELL_2021/Curso_Cartografía_centro GEO/Ejercicio_5\\index.html",
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      49,
+      50,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 1,
+    "comboBox_xyShift": false,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "487256.3918960241",
+    "lineEdit_CenterY": "2137910.605974754",
+    "lineEdit_Height": "75438.53862604499",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "75438.53862604499",
+    "lineEdit_zFactor": "3",
+    "radioButton_Color": true,
+    "radioButton_PtLight": true,
+    "radioButton_WGS84": true,
+    "slider_Fog": 41
+  },
+  "Template": "3DViewer.html",
+  "Title": "CDMX_ObedsV_web",
+  "Version": 20800,
+  "WIDGETS": {
+    "NorthArrow": {
+      "color": "0x666666",
+      "visible": true
+    }
+  }
+}
